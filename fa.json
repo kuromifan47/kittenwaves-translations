@@ -122,7 +122,7 @@
       "SELECT_THEME_TEXT": "انتخاب تم",
       "EXPORT_THEME_TEXT": "خروجی تم",
       "CUSTOM_IMAGE_TEXT": "تم دلخواه",
-      "LOAD_TEXT": "بارگذاری/لود کردن",
+      "LOAD_TEXT": "بارگذاری",
       "BUFFED_PLAYER_TIP_TEXT": "بازیکن تقویت شده",
       "WALK_SPEED_TEXT": "سرعت راه‌رفتن",
       "PLAYER_GROUP_TEXT": "بازیکن",
@@ -153,7 +153,7 @@
       "TRANSLATORS_TEXT": "مترجمان",
       "FILTER_CONTRIBUTORS_TEXT": "عوامل(مشارکت کنندگان) فیلترها",
       "NEXT_TELEPORT_TEXT": "تلپورت بعدی",
-      "PREVIOUS_TELEPORT_TEXT": "تلپورت پیشین",
+      "PREVIOUS_TELEPORT_TEXT": "تلپورت قبلی",
       "TOGGLE_UI_TEXT": "کلید رابط کاربری",
       "MENU_TEXT": "فهرست منو"
     }
