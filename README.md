@@ -10,7 +10,7 @@ Community-submitted translation files for KittenWaves
 
 ## What will I get in return?
 - Complete or nearly complete translations will earn you:
-  - A free KittenWaves license key
+  - ~~A free KittenWaves license key~~ People wanted to abuse it, sorry
   - A Translator role in the [Discord Server](https://discord.gg/PKbutPa4wQ)
 
 ## Notes
