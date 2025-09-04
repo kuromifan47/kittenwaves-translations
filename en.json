@@ -179,6 +179,9 @@
     "MENU_TEXT": "Menu",
     "METHOD_TEXT": "Method",
     "SCAM_ALERT_TEXT": "Scam Alert",
-    "SCAM_ALERT_DESC_TEXT": "If you've bought this software from outside of <color=red>discord.gg/hellokittyfans</color> there is a high chance you have bought from an unauthorized reseller. <color=red>Please contact @vx.aboveground on Discord if you believe that is the case.</color>"
+    "SCAM_ALERT_DESC_TEXT": "If you've bought this software from outside of <color=red>discord.gg/hellokittyfans</color> there is a high chance you have bought from an unauthorized reseller. <color=red>Please contact @vx.aboveground on Discord if you believe that is the case.</color>",
+    "ARE_YOU_SURE_TEXT": "Are you sure you want to do this?",
+    "SAFEMODE_MODAL_WARNING_TEXT": "Turning Safemode off may softlock your account permanently!",
+    "TOWER_DEFENSE_TEXT": "Tower Defense"
   }
 }
