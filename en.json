@@ -185,6 +185,9 @@
     "TOWER_DEFENSE_TEXT": "Tower Defense",
     "SOFTLOCK_FIXES_TEXT": "Softlock Fixes",
     "FIX_2_6_MAIN_QUEST": "Fix \"By Sun's Burning Hand\" Softlock",
-    "SOFTLOCK_FIXES_HINT": "2.6 Fix - Click the teleport button, head back into the area, once you're stuck, press the fix button"
+    "SOFTLOCK_FIXES_HINT": "2.6 Fix - Click the teleport button, head back into the area, once you're stuck, press the fix button",
+    "TD_CUSTOM_DAMAGE_TEXT": "TD Custom Damage",
+    "DAMAGE_TEXT": "Damage",
+    "EVENTS_TEXT": "Events"
   }
 }
